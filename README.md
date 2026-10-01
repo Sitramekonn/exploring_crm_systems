@@ -6,8 +6,6 @@
 |-------|---------|
 | Name | Sitra Mekonn |
 | Course | ICS499 – Software Engineering and Capstone Project |
-| Assignment | Assignment 2 + FP1 – AI-Assisted CRM Research |
-| Due Date | Saturday, June 6, 2026 |
 
 ---
 
